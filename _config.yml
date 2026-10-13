@@ -1,7 +1,7 @@
 title: Cristóbal Carreño Mosqueira
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
-
+color_scheme: dark
 url: https://tobalmosqueira.github.io/cristobalcarreno.github.io/
 
 aux_links:
