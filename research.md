@@ -6,7 +6,7 @@ nav_order: 3
 
 # Investigación y Publicaciones
 
-En esta sección se detallan mis principales líneas de investigación y la producción científica desarrollada a lo largo de mi carrera académica.
+En esta sección se detallan mis principales líneas de investigación y la producción científica desarrollada a lo largo de mi carrera académica. sdfqsfsdfqsdfds
 
 ## Áreas de Interés
 * **Sistemas de Posicionamiento por Luz Visible (VLP):** Optimización y algoritmos para estimación de posición tridimensional basada en RSS (*Received Signal Strength*).
